@@ -6,7 +6,7 @@ const PROMPTS = {
   eli5: (text) => `Explain the main idea of the following webpage content in simple terms, as if explaining to a 10-year-old. Keep it friendly and under 100 words:\n\n${text}`,
 };
 
-let currentMode = "tldr";   
+let currentMode = "tldr";    
 
 // --- DOM refs ---
 const toggleSettingsBtn = document.getElementById("toggleSettings");
