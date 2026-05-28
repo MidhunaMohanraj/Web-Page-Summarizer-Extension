@@ -25,7 +25,7 @@ A Chrome extension that summarizes any webpage in seconds using **Google Gemini 
 ---
 
 ## Setup
-
+  
 ### 1. Get a free Gemini API key
 
 1. Go to [aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
