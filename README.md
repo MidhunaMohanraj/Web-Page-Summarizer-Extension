@@ -16,7 +16,7 @@ A Chrome extension that summarizes any webpage in seconds using **Google Gemini 
 - **Secure key storage** — your API key stays local in Chrome storage
 - **Free to run** — uses Gemini 1.5 Flash, which has a generous free tier
 
----   
+---     
 
 ## Screenshots
 
