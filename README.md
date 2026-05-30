@@ -17,7 +17,7 @@ A Chrome extension that summarizes any webpage in seconds using **Google Gemini 
 - **Free to run** — uses Gemini 1.5 Flash, which has a generous free tier
 
 ---     
-  
+    
 ## Screenshots
 
 > _Add your own screenshot here after loading the extension._
