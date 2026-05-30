@@ -6,6 +6,3 @@ chrome.runtime.onInstalled.addListener(({ reason }) => {
     console.log("PageBrief installed. Open the extension and add your Gemini API key.");
   }
 });
-  
-   
-  
